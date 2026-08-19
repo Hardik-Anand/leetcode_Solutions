@@ -1,11 +1,10 @@
 class Solution {
 private:
-    bool dfs_check(int node,int parent, int color[], vector<vector<int>> &graph){
-        if(parent==-1) color[node]=0;
-        else color[node]=!color[parent];
+    bool dfs_check(int node,int c, int color[], vector<vector<int>> &graph){
+        color[node]=c;
         for(auto it : graph[node]){
             if(color[it]==-1){
-                if(!dfs_check(it,node,color,graph)) return false;
+                if(!dfs_check(it,!c,color,graph)) return false;
             }
             else if(color[it]==color[node]){
                 return false;
@@ -23,7 +22,7 @@ public:
         }
         for(int i=0;i<n;i++){
             if(color[i]==-1){
-                if(!dfs_check(i,-1,color,graph)) return false;
+                if(!dfs_check(i,0,color,graph)) return false;
             }
         }
         return true;
