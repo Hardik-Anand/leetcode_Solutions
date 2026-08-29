@@ -14,6 +14,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0210-course-schedule-ii) |
@@ -75,4 +76,16 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
