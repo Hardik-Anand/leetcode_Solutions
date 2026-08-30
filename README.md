@@ -14,6 +14,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0207-course-schedule) |
@@ -79,13 +80,20 @@
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
