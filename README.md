@@ -7,6 +7,7 @@
 | [0130-surrounded-regions](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,12 +24,14 @@
 | [0785-is-graph-bipartite](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
