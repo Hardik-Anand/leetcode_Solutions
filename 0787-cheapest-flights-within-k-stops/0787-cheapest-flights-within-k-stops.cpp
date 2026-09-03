@@ -5,37 +5,29 @@ public:
         for(auto it : flights){
             int u=it[0];
             int v=it[1];
-            int price=it[2];
-            adj[u].push_back({v,price});
+            int wt=it[2];
+            adj[u].push_back({v,wt});
         }
-        priority_queue<
-        pair<int,pair<int,int>>,
-        vector<pair<int,pair<int,int>>>,
-        greater<pair<int,pair<int,int>>>
-        > pq;
-        pq.push({0,{src,0}});  // {price{node,flightsTaken}}
-        vector<vector<int>> dist(n,vector<int>(k+2,1e9)); // dist[node][flightsTaken]
-        dist[src][0]=0;
-        while(!pq.empty()){
-            int price=pq.top().first;
-            int node=pq.top().second.first;
-            int flightsTaken=pq.top().second.second;
-            pq.pop();
-            if(node==dst) return price;
-            if(flightsTaken == k+1) continue;
-
+        queue<pair<int,pair<int,int>>> q;  // {stops,{node,price}}
+        q.push({0,{src,0}});
+        vector<int> dist(n,1e9);
+        dist[src]=0;
+        while(!q.empty()){
+            int stops=q.front().first;
+            int node=q.front().second.first;
+            int price=q.front().second.second;
+            q.pop();
+            if(stops > k) continue;
             for(auto it : adj[node]){
-                int newNode=it.first;
-                int cost=it.second;
-
-                int newPrice=price+cost;
-                int newFlights=flightsTaken+1;
-                if(newPrice<dist[newNode][newFlights]){
-                    dist[newNode][newFlights]=newPrice;
-                    pq.push({newPrice,{newNode,newFlights}});
+                int adjNode=it.first;
+                int edgeWt=it.second;
+                if(price+edgeWt < dist[adjNode] && stops<=k){
+                    dist[adjNode]=price+edgeWt;
+                    q.push({stops+1,{adjNode,price+edgeWt}});
                 }
             }
         }
-        return -1;
+        if(dist[dst]==1e9) return -1;
+        return dist[dst];
     }
 };
