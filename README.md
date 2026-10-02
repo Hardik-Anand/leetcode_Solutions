@@ -130,4 +130,8 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
