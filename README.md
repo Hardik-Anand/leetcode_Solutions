@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0542-01-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0542-01-matrix) |
@@ -147,5 +148,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
