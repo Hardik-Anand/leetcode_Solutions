@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0542-01-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -114,6 +115,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -142,4 +144,8 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
