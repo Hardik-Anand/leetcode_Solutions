@@ -8,6 +8,7 @@
 | [0130-surrounded-regions](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0542-01-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -150,4 +151,9 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Hardik-Anand/leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
